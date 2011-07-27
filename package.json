@@ -1,6 +1,6 @@
 { "name": "test-report-view"
-, "version": "0.0.0"
-, "description": ""
+, "version": "1.0.0"
+, "description": "print out colo(u)red `test-report`s and errors"
 , "homepage": "http://github.com/dominictarr/test-report-view"
 , "repository": 
   { "type": "git"
